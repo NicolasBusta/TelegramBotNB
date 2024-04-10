@@ -4,5 +4,5 @@ Bot en Telegram que ofrece estados de animo para los usuarios y dependiendo del 
 # Versiones:
 * Vs0.0.1 - Primera versión del programa.
 * # Funcionamiento:
-* https://github.com/NicolasBusta/TelegramBotNB/assets/97243095/f6e2f2da-c983-4d7a-b008-26351548f7a9
+ https://github.com/NicolasBusta/TelegramBotNB/assets/97243095/f6e2f2da-c983-4d7a-b008-26351548f7a9
 
