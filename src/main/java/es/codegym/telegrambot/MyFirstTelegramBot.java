@@ -10,7 +10,7 @@ import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
 public class MyFirstTelegramBot extends MultiSessionTelegramBot {
 
     public static final String NAME = "TorkinBot_bot";
-    public static final String TOKEN = "6830438887:AAE48kJiSi4Sah4tkEhYr1YyhtlxG7mkUlQ";
+    public static final String TOKEN = "pasword";
     private FrasesAleatorias frasesAleatorias; 
 
     public MyFirstTelegramBot() {
